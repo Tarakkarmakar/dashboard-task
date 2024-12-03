@@ -1,0 +1,47 @@
+.main_sidbar{
+    width: 300px;
+    border-left: 1px solid black;
+    height: 100vh;
+    padding-top: 19px;
+    border-right: 1px solid black;
+    position: fixed;
+
+}
+.child{
+    margin-left: 320px; 
+    padding: 10px; 
+}
+.dahboard_lists{
+
+}
+
+.list_box{
+display: flex;
+flex-direction: column;
+}
+.list_box li{
+list-style-type: none;
+padding-top: 50px;
+font-size: 19px;
+font-weight: 400;
+text-decoration: none;
+width: 260px;
+height: 43px;
+display: flex;
+text-align: center;
+justify-content: left;
+padding: 7px 25px;
+}
+
+.list_box li a{
+    text-decoration: none;
+}
+.tableBody tr td{
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+.list_box li :hover{
+    cursor: pointer;
+    background-color: #45AFE34D;
+ 
+}
