@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+
 import './App.css';
-import SideBar from './components/SideBar/SideBar';
+
 import { Routes,Route} from "react-router-dom"
 import Dashboard from './pages/Dashboard/Dashboard';
 function App() {

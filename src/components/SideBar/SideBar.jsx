@@ -6,7 +6,7 @@ import sidelogo from "../../assets/sideBarLogo.png";
 import drawerClose from "../../assets/closeDrawer.png";
 import { Link } from "react-router-dom";
 
-import { FaTachometerAlt, FaEnvelope, FaClipboardList, FaQuoteRight, FaShippingFast, FaUserCircle } from "react-icons/fa";
+import { FaEnvelope, FaClipboardList, FaQuoteRight, FaShippingFast, FaUserCircle } from "react-icons/fa";
 const SideBar = ({children}) => {
 
 
